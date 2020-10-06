@@ -1,6 +1,6 @@
 # HelloAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
+First Angular project created to introduce to the essentials of Angular by creating a simple e-commerce application [following Angular tutorial](https://angular.io/start).
 
 ## Development server
 
