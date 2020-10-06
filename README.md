@@ -1,6 +1,6 @@
 # HelloAngular
 
-First Angular project created to introduce to the essentials of Angular by creating a simple e-commerce application [following Angular tutorial](https://angular.io/start).
+First Angular project created to introduce to the essentials of Angular by creating a simple e-commerce application [following Angular tutorial](https://angular.io/start) with Navigation, Data Management & Forms control.
 
 ## Development server
 
